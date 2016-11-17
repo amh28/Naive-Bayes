@@ -1,0 +1,31 @@
+Bayesian Network:-Interdependencia entre variables: causa y efecto(dependencia probabilisticax)
+		 -Grafo Aciclico
+		 -Modela Distribucion de Probabilidades Conjunta
+		 -Las dist de prob deben sumar 1 siempre
+
+MArkov Networks:-Simply a relatioship between them
+		-Se puede utiizar para segmentacion de imagenes(Interdep entre pixels)
+
+
+--------------------------------------------------------------------------------------------
+.FACTORES: tABLA PARA CUALQUIER LA POSIBLE COMBINACION DE VALORES DE X, LE ATRIBUYE UN VALOR
+	   ..Joint Distribution, Es un factor
+	   ..Se pueden multiplicar y sumar factores para inferencia
+
+	   ..Factor Marginalization(Eliminacion de variables igual que en dist de prob)
+	   ..Factor Reduction
+
+
+Confitional Prob Distribution(CPD) -> p(G|I,D), Tambien es un factor
+--------------------------------------------------------------------------------------------
+
+BAYESIAN NETWORKS
+
+La evidencia bloquea el camino a la prediccion de un evento.
+
+
+
+
+
+
+
